@@ -146,16 +146,18 @@
             "id": "ed4654c2643e7bae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Daily Notes/2024-05-17.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#days_in_the_week",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-05-17.md",
+                "file": "Workshops/How to Solve Problems 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-05-17.md",
+                "file": "Workshops/How to Solve Problems 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-05-17.md"
+                "file": "Workshops/How to Solve Problems 2.md"
               }
             }
           }
@@ -284,13 +286,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed4654c2643e7bae",
+  "active": "218eede917d7c2e4",
   "lastOpenFiles": [
-    "Daily Notes/2024-05-15.md",
-    "TO DO's.md",
-    "Daily Notes/2024-05-17.md",
+    "Untitled.canvas",
     "Project Notes/Blackjack/Blackjack Add Players Plan.canvas",
+    "Daily Notes/2024-05-13.md",
+    "Document Templates/daily_note.md",
+    "Daily Notes/2024-05-15.md",
+    "Workshops/Tech Workshop 2 - Good Coding Habits.md",
+    "Workshops/How to Solve Problems 3.md",
+    "PHP/PHP  1 - Interview Skills.md",
+    "Workshops/How to Solve Problems 2.md",
     "2024-05-17.md",
+    "Daily Notes/2024-05-17.md",
+    "TO DO's.md",
     "Project Notes/Blackjack",
     "Project Notes",
     "Questions For Coaches.md",
@@ -300,18 +309,11 @@
     "README.md",
     "Daily Notes/2024-05-14.md",
     "Daily Notes/2024-05-16.md",
-    "Document Templates/daily_note.md",
-    "Daily Notes/2024-05-13.md",
     "Excalidraw/add_players_to_blackjack.excalidraw.md",
     "Workshops/How To Solve Problems 4.md",
-    "Workshops/How to Solve Problems 3.md",
-    "PHP/PHP  1 - Interview Skills.md",
     "Workshops/How to Solve Problems 1.md",
-    "Workshops/How to Solve Problems 2.md",
     "Workshops/Tech Workshop 1 - Repo's, VENV's, & TDD.md",
-    "Workshops/Tech Workshop 2 - Good Coding Habits.md",
     "Workshops/Tech Workshop 3 - Bug Squashing.md",
-    "Untitled.canvas",
     "Coursework",
     "Excalidraw",
     "Plans",
