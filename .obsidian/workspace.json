@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-05-18.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-05-18.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-05-18.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-05-18.md"
+                "file": "README.md"
               }
             }
           }
@@ -272,8 +272,8 @@
   },
   "active": "218eede917d7c2e4",
   "lastOpenFiles": [
-    "Document Templates/daily_note.md",
     "Daily Notes/2024-05-18.md",
+    "Document Templates/daily_note.md",
     "Questions For Coaches.md",
     "Workshops/Tech Workshop 3 - Bug Squashing.md",
     "Workshops/Tech Workshop 2 - Good Coding Habits.md",
