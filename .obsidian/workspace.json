@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workshops/How to Solve Problems 2.md",
+                "file": "Daily Notes/2024-05-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,26 +133,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Project Notes/Blackjack/Blackjack Add Players Plan.canvas",
+                "file": "Projects/Blackjack/Blackjack Add Players Plan.canvas",
                 "viewState": {
                   "x": 470,
                   "y": 80,
                   "zoom": -0.04480403413344835
-                }
-              }
-            }
-          },
-          {
-            "id": "ed4654c2643e7bae",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
                 }
               }
             }
@@ -203,8 +188,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workshops/How to Solve Problems 2.md",
+                "file": "Daily Notes/2024-05-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workshops/How to Solve Problems 2.md",
+                "file": "Daily Notes/2024-05-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workshops/How to Solve Problems 2.md"
+                "file": "Daily Notes/2024-05-18.md"
               }
             }
           }
@@ -288,32 +272,35 @@
   },
   "active": "218eede917d7c2e4",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Project Notes/Blackjack/Blackjack Add Players Plan.canvas",
-    "Daily Notes/2024-05-13.md",
     "Document Templates/daily_note.md",
-    "Daily Notes/2024-05-15.md",
-    "Workshops/Tech Workshop 2 - Good Coding Habits.md",
-    "Workshops/How to Solve Problems 3.md",
-    "PHP/PHP  1 - Interview Skills.md",
-    "Workshops/How to Solve Problems 2.md",
-    "2024-05-17.md",
-    "Daily Notes/2024-05-17.md",
-    "TO DO's.md",
-    "Project Notes/Blackjack",
-    "Project Notes",
+    "Daily Notes/2024-05-18.md",
     "Questions For Coaches.md",
-    "Project Notes/Blackjack/Add Player To BlackJack Process.md",
+    "Workshops/Tech Workshop 3 - Bug Squashing.md",
+    "Workshops/Tech Workshop 2 - Good Coding Habits.md",
+    "PHP/PHP  1 - Interview Skills.md",
+    "timecomplexity.ai.md",
+    "Daily Notes/2024-05-17.md",
+    "Workshops/How To Solve Problems 5.md",
+    "Workshops/How To Solve Problems 4.md",
+    "Daily Notes/2024-05-16.md",
+    "Workshops/How to Solve Problems 3.md",
+    "TO DO's.md",
+    "Daily Notes/2024-05-15.md",
+    "Daily Notes/2024-05-14.md",
+    "Daily Notes/2024-05-13.md",
+    "Workshops/How to Solve Problems 2.md",
+    "Projects/Blackjack/Blackjack Add Players Plan.canvas",
+    "Untitled.canvas",
+    "2024-05-17.md",
+    "Projects/Blackjack",
+    "Projects",
+    "Projects/Blackjack/Add Player To BlackJack Process.md",
     "Code Reviews/Code Review Notes 1.md",
     "Code Reviews",
     "README.md",
-    "Daily Notes/2024-05-14.md",
-    "Daily Notes/2024-05-16.md",
     "Excalidraw/add_players_to_blackjack.excalidraw.md",
-    "Workshops/How To Solve Problems 4.md",
     "Workshops/How to Solve Problems 1.md",
     "Workshops/Tech Workshop 1 - Repo's, VENV's, & TDD.md",
-    "Workshops/Tech Workshop 3 - Bug Squashing.md",
     "Coursework",
     "Excalidraw",
     "Plans",
@@ -321,8 +308,6 @@
     "PHP",
     "Document Templates/Daily Notes {{date}}.md",
     "Document Templates",
-    "Workshops/Workshop 1.md",
-    "Solving Problems 1.md",
     "Daily Notes",
     "Workshops"
   ]

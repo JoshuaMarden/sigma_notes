@@ -9,12 +9,11 @@ ___
 2. __Modelling Problem__
 	[[How to Solve Problems 2]]
 
-5. __Algorithm__
-	- Series of computable steps
-	- (always with same outcome)
+3. __Algorithm__
+	 [[How to Solve Problems 3]]
 
-	 - Before attacking a problem, try breaking it down conceptually, free of computng lingo.
+4. __Test & Code__
+	- This is what we do and talk about all the time.
+	- __TDD__ cannot stress this enough!
 
-7. __Test & Code__
-
-8. __Reflection__
+5. __Reflection__

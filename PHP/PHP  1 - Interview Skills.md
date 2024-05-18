@@ -4,7 +4,8 @@ C C P !
 
 [Slides]([https://docs.google.com/presentation/d/1MkPxG2JF81N-lbZfSmKsJjQB-QaJDae_aIVxQx9_K4o/edit?usp=sharing](https://docs.google.com/presentation/d/1MkPxG2JF81N-lbZfSmKsJjQB-QaJDae_aIVxQx9_K4o/edit?usp=sharing))
 
-* Course work is required by 1800 every Wednesday
+* Course work is required by 1800 every Friday.\
+* You need to send it in your career channel and respond to Rory's feedback.
 
 ---
 

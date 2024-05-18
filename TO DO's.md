@@ -14,6 +14,8 @@ ___
 
 # Done
 ___
+
+- ~~submit question for mastery quiz
 - ~~Add test cases to blackjack
 - ~~Add Multiple AI players to blackjack
 - ~~Rank learning objectives 1-10 for week one
