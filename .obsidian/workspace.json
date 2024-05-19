@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/2024 · 05 · 17 (Fri).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-05-15.md",
+                "file": "Daily Notes/2024 · 05 · 15 (Wed).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-05-13.md",
+                "file": "Daily Notes/2024 · 05 · 13 (Mon).md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-05-13.md",
+                "file": "Daily Notes/2024 · 05 · 13 (Mon).md",
                 "mode": "source",
                 "source": false
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/2024 · 05 · 17 (Fri).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/2024 · 05 · 17 (Fri).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Daily Notes/2024 · 05 · 17 (Fri).md"
               }
             }
           }
@@ -272,24 +272,30 @@
   },
   "active": "218eede917d7c2e4",
   "lastOpenFiles": [
+    "Daily Notes/2024-05-19 (Sun).md",
+    "Daily Notes/2024 · 05 · 17 (Fri).md",
+    "Daily Notes/2024-05-19 {}.md",
+    "Daily Notes/2024 · 05 · 16 (Thurs).md",
+    "Daily Notes/2024 · 05 · 15 (Wed).md",
+    "Daily Notes/2024 · 05 · 14 (Tues).md",
+    "Daily Notes/2024 · 05 · 13 (Mon).md",
+    "Daily Notes/2024-05-19.md",
+    "Daily Notes/2024-05-18.md",
+    "README.md",
+    "Excalidraw/blackjack_flow_diagram_plan.excalidraw",
+    "Excalidraw/Unconfirmed 851421.crdownload",
     "Python Lines & Snippets.md",
     "Unconfirmed 207130.crdownload",
-    "Daily Notes/2024-05-18.md",
     "Document Templates/daily_note.md",
     "Questions For Coaches.md",
     "Workshops/Tech Workshop 3 - Bug Squashing.md",
     "Workshops/Tech Workshop 2 - Good Coding Habits.md",
     "PHP/PHP  1 - Interview Skills.md",
     "timecomplexity.ai.md",
-    "Daily Notes/2024-05-17.md",
     "Workshops/How To Solve Problems 5.md",
     "Workshops/How To Solve Problems 4.md",
-    "Daily Notes/2024-05-16.md",
     "Workshops/How to Solve Problems 3.md",
     "TO DO's.md",
-    "Daily Notes/2024-05-15.md",
-    "Daily Notes/2024-05-14.md",
-    "Daily Notes/2024-05-13.md",
     "Workshops/How to Solve Problems 2.md",
     "Projects/Blackjack/Blackjack Add Players Plan.canvas",
     "Untitled.canvas",
@@ -299,16 +305,10 @@
     "Projects/Blackjack/Add Player To BlackJack Process.md",
     "Code Reviews/Code Review Notes 1.md",
     "Code Reviews",
-    "README.md",
     "Excalidraw/add_players_to_blackjack.excalidraw.md",
-    "Workshops/How to Solve Problems 1.md",
-    "Workshops/Tech Workshop 1 - Repo's, VENV's, & TDD.md",
     "Coursework",
     "Excalidraw",
     "Plans",
-    "2024-05-16.md",
-    "PHP",
-    "Document Templates",
-    "Daily Notes"
+    "PHP"
   ]
 }
