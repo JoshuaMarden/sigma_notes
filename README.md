@@ -19,9 +19,9 @@ _________________________________
 
 ---
 
-TODO: Fix gitignore
-TODO: Start moving useful shortcuts to a single file
-TODO: start adding hashtags and links to connect files
+- [ ] TODO: Fix gitignore
+- [ ] TODO: Start moving useful shortcuts to a single file
+- [ ] TODO: start adding hashtags and links to connect files
 
 
 
