@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions For Coaches.md",
+                "file": "Daily Notes/2024-05-20 (Mon).md",
                 "mode": "source",
                 "source": false
               }
@@ -50,18 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6434b38d78924b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO DO's.md",
                 "mode": "source",
                 "source": false
               }
@@ -208,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions For Coaches.md",
+                "file": "Daily Notes/2024-05-20 (Mon).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions For Coaches.md",
+                "file": "Daily Notes/2024-05-20 (Mon).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions For Coaches.md"
+                "file": "Daily Notes/2024-05-20 (Mon).md"
               }
             }
           }
@@ -272,29 +260,30 @@
   },
   "active": "218eede917d7c2e4",
   "lastOpenFiles": [
+    "Document Templates/daily_note.md",
+    "PHP/PHP  1 - Interview Skills.md",
+    "Daily Notes/2024-05-20 (Mon).md",
+    "Daily Notes/2024 · 05 · 16 (Thurs).md",
+    "Daily Notes/2024 · 05 · 15 (Wed).md",
+    "Daily Notes/2024 · 05 · 17 (Fri).md",
+    "README.md",
+    "Questions For Coaches.md",
     "TO DO's.md",
     "Projects/Blackjack/Blackjack Add Players Plan.canvas",
     "Projects/Blackjack/Add Player To BlackJack Process.md",
-    "Questions For Coaches.md",
     "Workshops/How to Solve Problems 1.md",
-    "Daily Notes/2024 · 05 · 17 (Fri).md",
     "Daily Notes/2024-05-19 (Sun).md",
     "Daily Notes/2024-05-19 {}.md",
-    "Daily Notes/2024 · 05 · 16 (Thurs).md",
-    "Daily Notes/2024 · 05 · 15 (Wed).md",
     "Daily Notes/2024 · 05 · 14 (Tues).md",
     "Daily Notes/2024 · 05 · 13 (Mon).md",
     "Daily Notes/2024-05-19.md",
     "Daily Notes/2024-05-18.md",
-    "README.md",
     "Excalidraw/blackjack_flow_diagram_plan.excalidraw",
     "Excalidraw/Unconfirmed 851421.crdownload",
     "Python Lines & Snippets.md",
     "Unconfirmed 207130.crdownload",
-    "Document Templates/daily_note.md",
     "Workshops/Tech Workshop 3 - Bug Squashing.md",
     "Workshops/Tech Workshop 2 - Good Coding Habits.md",
-    "PHP/PHP  1 - Interview Skills.md",
     "timecomplexity.ai.md",
     "Workshops/How To Solve Problems 5.md",
     "Workshops/How To Solve Problems 4.md",

@@ -7,7 +7,7 @@ __Lyes:__
 
 __Mabon:__
 
-__Johnathan:__
+__Jonathan:__
 
 __Josh__:
 
