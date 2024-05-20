@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-05-20 (Mon).md",
+                "file": "TO DO's.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-05-20 (Mon).md",
+                "file": "TO DO's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-05-20 (Mon).md",
+                "file": "TO DO's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-05-20 (Mon).md"
+                "file": "TO DO's.md"
               }
             }
           }
@@ -260,15 +260,15 @@
   },
   "active": "218eede917d7c2e4",
   "lastOpenFiles": [
+    "Daily Notes/2024-05-20 (Mon).md",
+    "TO DO's.md",
     "Document Templates/daily_note.md",
     "PHP/PHP  1 - Interview Skills.md",
-    "Daily Notes/2024-05-20 (Mon).md",
     "Daily Notes/2024 · 05 · 16 (Thurs).md",
     "Daily Notes/2024 · 05 · 15 (Wed).md",
     "Daily Notes/2024 · 05 · 17 (Fri).md",
     "README.md",
     "Questions For Coaches.md",
-    "TO DO's.md",
     "Projects/Blackjack/Blackjack Add Players Plan.canvas",
     "Projects/Blackjack/Add Player To BlackJack Process.md",
     "Workshops/How to Solve Problems 1.md",
