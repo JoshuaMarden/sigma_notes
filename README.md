@@ -19,9 +19,10 @@ _________________________________
 
 ---
 
-- [ ] TODO: Fix gitignore
-- [ ] TODO: Start moving useful shortcuts to a single file
+- [x] TODO: Fix gitignore
+- [ ] TODO: Start moving useful keyboard shortcuts to a single file
 - [ ] TODO: start adding hashtags and links to connect files
+- [ ] TODO: start a decent, linked foßlder for code snippet & one-liners
 
 
 

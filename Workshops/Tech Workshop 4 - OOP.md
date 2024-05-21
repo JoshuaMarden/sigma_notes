@@ -1,3 +1,5 @@
+
+[Online Excalidraw Doc](https://app.excalidraw.com/l/6gPaBlSh8PG/Agp4IoDKOju)
 ___
 Up until now we have been writing code _procedurally_.
 

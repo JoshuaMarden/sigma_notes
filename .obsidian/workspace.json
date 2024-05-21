@@ -25,7 +25,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/2024-05-20 (Mon).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "204f698438e15dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshops/Tech Workshop 4 - OOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1022893e1d25fc20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshops/Tech Workshop  5 - Try & Except.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af979210ce0cf8cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-05-21 (Tue).md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -209,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/2024-05-21 (Tue).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/2024-05-21 (Tue).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Daily Notes/2024-05-21 (Tue).md"
               }
             }
           }
@@ -271,35 +307,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8475c1fe9812c967",
+  "active": "af979210ce0cf8cf",
   "lastOpenFiles": [
-    "TO DO's.md",
-    "TO DO's 1.md",
-    "README.md",
-    "Python Lines & Snippets.md",
+    "Workshops/Tech Workshop 6 - Encapsualtion.md",
+    "Workshops/Untitled.md",
+    "Workshops/Tech Workshop  5 - Try & Except.md",
+    "encapsulation_pre-work.py",
     "Workshops/Tech Workshop 1 - Repo's, VENV's, & TDD.md",
+    "Workshops/Tech Workshop 2 - Good Coding Habits.md",
+    "Workshops/Tech Workshop 4 - OOP.md",
+    "Workshops/Tech Workshop 3 - Bug Squashing.md",
+    "Daily Notes/2024-05-21 (Tue).md",
+    "Document Templates/daily_note.md",
+    "Daily Notes/2024-05-20 (Mon).md",
+    "Custom Command & Shell Scripts.md",
+    "How To's & Problem Solving",
+    "Questions For Coaches.md",
+    "Code Reviews/Code Review - Key Takeaways.md",
+    "TO DO's.md",
+    "README.md",
+    "TO DO's 1.md",
+    "Python Lines & Snippets.md",
     "Workshops/How to Solve Problems 1.md",
     "Workshops/How To Solve Problems 5.md",
     "Workshops/How To Solve Problems 4.md",
     "Workshops/How to Solve Problems 2.md",
     "Workshops/How to Solve Problems 3.md",
-    "Workshops/Tech Workshop 4 - OOP.md",
-    "Workshops/Tech Workshop 2 - Good Coding Habits.md",
-    "Daily Notes/2024-05-20 (Mon).md",
     "Daily Notes/2024 · 05 · 17 (Fri).md",
     "Daily Notes/2024 · 05 · 13 (Mon).md",
     "Daily Notes/2024 · 05 · 14 (Tues).md",
-    "Daily Notes/2024 · 05 · 15 (Wed).md",
-    "Daily Notes/2024 · 05 · 16 (Thurs).md",
-    "Workshops/Tech Workshop 3 - Bug Squashing.md",
-    "Document Templates/daily_note.md",
-    "PHP/PHP  1 - Interview Skills.md",
-    "Questions For Coaches.md",
     "Projects/Blackjack/Blackjack Add Players Plan.canvas",
-    "Projects/Blackjack/Add Player To BlackJack Process.md",
-    "Daily Notes/2024-05-19 (Sun).md",
-    "Daily Notes/2024-05-19 {}.md",
-    "Daily Notes/2024-05-19.md",
     "Excalidraw/blackjack_flow_diagram_plan.excalidraw",
     "Excalidraw/Unconfirmed 851421.crdownload",
     "Unconfirmed 207130.crdownload",
@@ -308,8 +345,6 @@
     "Projects",
     "Code Reviews",
     "Coursework",
-    "Excalidraw",
-    "Plans",
-    "PHP"
+    "Excalidraw"
   ]
 }

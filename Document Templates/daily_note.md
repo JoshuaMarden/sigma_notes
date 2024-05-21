@@ -1,15 +1,15 @@
 
 ### Stand Up
 ___
-__Miles:__
+__Miles:__ 
 
-__Lyes:__
+__Lyes:__ 
 
-__Mabon:__
+__Mabon:__ 
 
-__Jonathan:__
+__Jonathan:__ 
 
-__Josh__:
+__Josh__: 
 
 ### Key Notes / Messages
 ___
@@ -19,12 +19,12 @@ ___
 
 ### Wrap Up
 ___
-__Miles:__
+__Miles:__ 
 
-__Lyes:__
+__Lyes:__ 
 
-__Mabon:__
+__Mabon:__ 
 
-__Johnathan:__
+__Johnathan:__ 
 
-__Josh__:
+__Josh__: 

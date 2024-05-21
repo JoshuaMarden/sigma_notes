@@ -10,7 +10,8 @@ ____
 ### Example Bad Code
 ___
 
-```def ask_user_for_phone_number() -> str:  
+```python
+def ask_user_for_phone_number() -> str:  
 user_input = input("What is the phone number to validate?")  
 return user_input  
   
