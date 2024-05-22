@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Add Helper Print Command to Terminal.md",
+                "file": "How To's & Problem Solving/Add Helper Print Command to Terminal.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Add Helper Print Command to Terminal.md",
+                "file": "How To's & Problem Solving/Add Helper Print Command to Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Add Helper Print Command to Terminal.md",
+                "file": "How To's & Problem Solving/Add Helper Print Command to Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Add Helper Print Command to Terminal.md"
+                "file": "How To's & Problem Solving/Add Helper Print Command to Terminal.md"
               }
             }
           }
@@ -183,6 +183,8 @@
   },
   "active": "3756d62781955da4",
   "lastOpenFiles": [
+    "Workshops/Tech Workshop 3 - Bug Squashing.md",
+    "How To's & Problem Solving/Add Helper Print Command to Terminal.md",
     "sigma_notes.git/sigma_notes/encapsulation_pre-work.py",
     "sigma_notes.git/sigma_notes/Workshops/Tech Workshop 6 - Encapsualtion.md",
     "sigma_notes.git/sigma_notes/Workshops/Tech Workshop 4 - OOP.md",
@@ -217,9 +219,7 @@
     "sigma_notes.git/sigma_notes/Daily Notes/2024 · 05 · 14 (Tues).md",
     "sigma_notes.git/sigma_notes/Daily Notes/2024 · 05 · 13 (Mon).md",
     "sigma_notes.git/sigma_notes/Daily Notes",
-    "sigma_notes.git/sigma_notes/Code Reviews/Code Review - Key Takeaways.md",
     "sigma_notes.git/sigma_notes/Code Reviews",
-    "sigma_notes.git/sigma_notes",
     "Projects/Blackjack/Blackjack Add Players Plan.canvas",
     "Untitled.canvas"
   ]
