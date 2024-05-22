@@ -47,14 +47,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To's & Problem Solving/Add Helper Print Command to Terminal.md",
+                "file": "PHP/PHP  1 - Interview Skills.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32afb0b22075a490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/PHP 2 - Interview Skills & Communication Behaviours.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To's & Problem Solving/Add Helper Print Command to Terminal.md",
+                "file": "PHP/PHP 2 - Interview Skills & Communication Behaviours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To's & Problem Solving/Add Helper Print Command to Terminal.md",
+                "file": "PHP/PHP 2 - Interview Skills & Communication Behaviours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To's & Problem Solving/Add Helper Print Command to Terminal.md"
+                "file": "PHP/PHP 2 - Interview Skills & Communication Behaviours.md"
               }
             }
           }
@@ -181,10 +193,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3756d62781955da4",
+  "active": "32afb0b22075a490",
   "lastOpenFiles": [
-    "Workshops/Tech Workshop 3 - Bug Squashing.md",
+    "PHP/PHP  1 - Interview Skills.md",
+    "Python Lines & Snippets.md",
+    "PHP/PHP 2 - Interview Skills & Communication Behaviours.md",
     "How To's & Problem Solving/Add Helper Print Command to Terminal.md",
+    "Workshops/Tech Workshop 3 - Bug Squashing.md",
     "sigma_notes.git/sigma_notes/encapsulation_pre-work.py",
     "sigma_notes.git/sigma_notes/Workshops/Tech Workshop 6 - Encapsualtion.md",
     "sigma_notes.git/sigma_notes/Workshops/Tech Workshop 4 - OOP.md",
@@ -215,9 +230,6 @@
     "sigma_notes.git/sigma_notes/Daily Notes/2024-05-20 (Mon).md",
     "sigma_notes.git/sigma_notes/Daily Notes/2024 · 05 · 17 (Fri).md",
     "sigma_notes.git/sigma_notes/Daily Notes/2024 · 05 · 16 (Thurs).md",
-    "sigma_notes.git/sigma_notes/Daily Notes/2024 · 05 · 15 (Wed).md",
-    "sigma_notes.git/sigma_notes/Daily Notes/2024 · 05 · 14 (Tues).md",
-    "sigma_notes.git/sigma_notes/Daily Notes/2024 · 05 · 13 (Mon).md",
     "sigma_notes.git/sigma_notes/Daily Notes",
     "sigma_notes.git/sigma_notes/Code Reviews",
     "Projects/Blackjack/Blackjack Add Players Plan.canvas",
