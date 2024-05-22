@@ -1,5 +1,7 @@
 ___
 
+[Board Notes here](https://app.excalidraw.com/l/6gPaBlSh8PG/9QvD2BhSaLY)
+
 __Try__ & __Except__ can be used to flag errors that you are anticipating:
 
 e.g. 

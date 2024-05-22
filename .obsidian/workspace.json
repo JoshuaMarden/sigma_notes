@@ -8,178 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "218eede917d7c2e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO DO's.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8475c1fe9812c967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-05-20 (Mon).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "204f698438e15dc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workshops/Tech Workshop 4 - OOP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1022893e1d25fc20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workshops/Tech Workshop  5 - Try & Except.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af979210ce0cf8cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-05-21 (Tue).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32064202fbb47af5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workshops/How to Solve Problems 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a43b8d39a218bcf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP/PHP  1 - Interview Skills.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2daf364dc5b31163",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1fe63fad48d7bed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workshops/Tech Workshop 2 - Good Coding Habits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab969d53c74600e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024 · 05 · 15 (Wed).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0537b6dd9fe47b10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024 · 05 · 13 (Mon).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f850b4ec4692d7f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Document Templates/daily_note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2e0cfda07c68b4a7",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackjack_flow_diagram_plan.excalidraw"
+              }
+            }
+          },
+          {
+            "id": "bd7d79351f83b9c9",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024 · 05 · 13 (Mon).md",
+                "file": "Workshops/How to Solve Problems 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bddf7507f73fbe35",
+            "id": "160c5f635a03ec03",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Blackjack/Blackjack Add Players Plan.canvas",
-                "viewState": {
-                  "x": 470,
-                  "y": 80,
-                  "zoom": -0.04480403413344835
-                }
+                "file": "Workshops/Tech Workshop 7 - Inheritance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3756d62781955da4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Add Helper Print Command to Terminal.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Open gCal Timeline View",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,11 +120,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-05-21 (Tue).md",
+                "file": "Add Helper Print Command to Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -262,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-05-21 (Tue).md",
+                "file": "Add Helper Print Command to Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-05-21 (Tue).md"
+                "file": "Add Helper Print Command to Terminal.md"
               }
             }
           }
@@ -293,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,37 +181,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af979210ce0cf8cf",
+  "active": "3756d62781955da4",
   "lastOpenFiles": [
+    "Workshops/Tech Workshop 7 - Inheritance.md",
+    "Add Helper Print Command to Terminal.md",
     "Workshops/Tech Workshop 6 - Encapsualtion.md",
-    "Workshops/Untitled.md",
+    "Workshops/How to Solve Problems 3.md",
     "Workshops/Tech Workshop  5 - Try & Except.md",
-    "encapsulation_pre-work.py",
+    "Workshops/How to Solve Problems 2.md",
+    "Workshops/How to Solve Problems 1.md",
+    "Excalidraw/Drawing 2024-05-22 09.43.58.excalidraw.md",
+    "Excalidraw/blackjack_flow_diagram_plan.excalidraw",
+    "Daily Notes/2024-05-22 (Wed).md",
+    "Daily Notes/2024 · 05 · 17 (Fri).md",
+    "Daily Notes/2024-05-20 (Mon).md",
+    "Daily Notes/2024-05-21 (Tue).md",
+    "Daily Notes/2024 · 05 · 14 (Tues).md",
+    "Daily Notes/2024 · 05 · 13 (Mon).md",
+    "Daily Notes/2024 · 05 · 16 (Thurs).md",
+    "Excalidraw/add_players_to_blackjack.excalidraw.md",
+    "Workshops/Tech Workshop 4 - Into to OOP.md",
     "Workshops/Tech Workshop 1 - Repo's, VENV's, & TDD.md",
     "Workshops/Tech Workshop 2 - Good Coding Habits.md",
-    "Workshops/Tech Workshop 4 - OOP.md",
     "Workshops/Tech Workshop 3 - Bug Squashing.md",
-    "Daily Notes/2024-05-21 (Tue).md",
     "Document Templates/daily_note.md",
-    "Daily Notes/2024-05-20 (Mon).md",
-    "Custom Command & Shell Scripts.md",
-    "How To's & Problem Solving",
-    "Questions For Coaches.md",
-    "Code Reviews/Code Review - Key Takeaways.md",
-    "TO DO's.md",
+    "Daily Notes/2024 · 05 · 15 (Wed).md",
     "README.md",
-    "TO DO's 1.md",
+    "PHP/PHP  1 - Interview Skills.md",
     "Python Lines & Snippets.md",
-    "Workshops/How to Solve Problems 1.md",
-    "Workshops/How To Solve Problems 5.md",
-    "Workshops/How To Solve Problems 4.md",
-    "Workshops/How to Solve Problems 2.md",
-    "Workshops/How to Solve Problems 3.md",
-    "Daily Notes/2024 · 05 · 17 (Fri).md",
-    "Daily Notes/2024 · 05 · 13 (Mon).md",
-    "Daily Notes/2024 · 05 · 14 (Tues).md",
+    "Questions For Coaches.md",
+    "encapsulation_pre-work.py",
+    "How To's & Problem Solving",
     "Projects/Blackjack/Blackjack Add Players Plan.canvas",
-    "Excalidraw/blackjack_flow_diagram_plan.excalidraw",
     "Excalidraw/Unconfirmed 851421.crdownload",
     "Unconfirmed 207130.crdownload",
     "Untitled.canvas",

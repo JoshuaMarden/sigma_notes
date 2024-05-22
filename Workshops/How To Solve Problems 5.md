@@ -38,5 +38,5 @@ ___
 			 -  Avoid nested loops that cause this!!
 		- O(n^3) Bad. Steeper curve.
 			- double nested loop. Don't do this.
-		- Use [timecomplexity.ai](https://www.timecomplexity.ai/)if you want to see how bad you code is.
+		- Use [timecomplexity.ai](https://www.timecomplexity.ai/)if you want to see how bad your code is.
 		
