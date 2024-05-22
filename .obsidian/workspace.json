@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "3700ea2a53e23446",
+    "type": "split",
+    "children": [
+      {
+        "id": "c41b39adcdd8386b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e0cfda07c68b4a7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/blackjack_flow_diagram_plan.excalidraw"
+              }
+            }
+          },
+          {
+            "id": "bd7d79351f83b9c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshops/How to Solve Problems 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "160c5f635a03ec03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshops/Tech Workshop 7 - Inheritance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3756d62781955da4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Add Helper Print Command to Terminal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fd3f99095a09873",
+    "type": "split",
+    "children": [
+      {
+        "id": "09bfe4fdd4ffbd38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bc33093f1cb42a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b9cbaa177e1669e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Open gCal Timeline View",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0e161037a470e23",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "4144c8639e675144",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2b9b76b0c47cfb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a10f4aaa88dce43e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Add Helper Print Command to Terminal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e623fbf11693378d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Add Helper Print Command to Terminal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d68d43d9608009c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7c97c69b84f023a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Add Helper Print Command to Terminal.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "3756d62781955da4",
+  "lastOpenFiles": [
+    "sigma_notes.git/sigma_notes/encapsulation_pre-work.py",
+    "sigma_notes.git/sigma_notes/Workshops/Tech Workshop 6 - Encapsualtion.md",
+    "sigma_notes.git/sigma_notes/Workshops/Tech Workshop 4 - OOP.md",
+    "sigma_notes.git/sigma_notes/Workshops/Tech Workshop 3 - Bug Squashing.md",
+    "sigma_notes.git/sigma_notes/Workshops/Tech Workshop 2 - Good Coding Habits.md",
+    "sigma_notes.git/sigma_notes/Workshops/Tech Workshop 1 - Repo's, VENV's, & TDD.md",
+    "sigma_notes.git/sigma_notes/Workshops/Tech Workshop  5 - Try & Except.md",
+    "sigma_notes.git/sigma_notes/Workshops/How to Solve Problems 3.md",
+    "sigma_notes.git/sigma_notes/Workshops/How to Solve Problems 2.md",
+    "sigma_notes.git/sigma_notes/Workshops/How to Solve Problems 1.md",
+    "sigma_notes.git/sigma_notes/Workshops/How To Solve Problems 5.md",
+    "sigma_notes.git/sigma_notes/Workshops/How To Solve Problems 4.md",
+    "sigma_notes.git/sigma_notes/Workshops",
+    "sigma_notes.git/sigma_notes/README.md",
+    "sigma_notes.git/sigma_notes/Python Lines & Snippets.md",
+    "sigma_notes.git/sigma_notes/Projects/Blackjack/Blackjack Add Players Plan.canvas",
+    "sigma_notes.git/sigma_notes/Projects/Blackjack/Add Player To BlackJack Process.md",
+    "sigma_notes.git/sigma_notes/Projects/Blackjack",
+    "sigma_notes.git/sigma_notes/Projects",
+    "sigma_notes.git/sigma_notes/PHP/PHP  1 - Interview Skills.md",
+    "sigma_notes.git/sigma_notes/PHP",
+    "sigma_notes.git/sigma_notes/Excalidraw/add_players_to_blackjack.excalidraw.md",
+    "sigma_notes.git/sigma_notes/Excalidraw/blackjack_flow_diagram_plan.excalidraw",
+    "sigma_notes.git/sigma_notes/Excalidraw",
+    "sigma_notes.git/sigma_notes/Document Templates/daily_note.md",
+    "sigma_notes.git/sigma_notes/Document Templates",
+    "sigma_notes.git/sigma_notes/Daily Notes/2024-05-21 (Tue).md",
+    "sigma_notes.git/sigma_notes/Daily Notes/2024-05-20 (Mon).md",
+    "sigma_notes.git/sigma_notes/Daily Notes/2024 · 05 · 17 (Fri).md",
+    "sigma_notes.git/sigma_notes/Daily Notes/2024 · 05 · 16 (Thurs).md",
+    "sigma_notes.git/sigma_notes/Daily Notes/2024 · 05 · 15 (Wed).md",
+    "sigma_notes.git/sigma_notes/Daily Notes/2024 · 05 · 14 (Tues).md",
+    "sigma_notes.git/sigma_notes/Daily Notes/2024 · 05 · 13 (Mon).md",
+    "sigma_notes.git/sigma_notes/Daily Notes",
+    "sigma_notes.git/sigma_notes/Code Reviews/Code Review - Key Takeaways.md",
+    "sigma_notes.git/sigma_notes/Code Reviews",
+    "sigma_notes.git/sigma_notes",
+    "Projects/Blackjack/Blackjack Add Players Plan.canvas",
+    "Untitled.canvas"
+  ]
+}
