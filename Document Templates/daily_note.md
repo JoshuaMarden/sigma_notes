@@ -1,16 +1,15 @@
 
 ### Stand Up
 ___
-__Miles:__ 
+__Hamoodi:__ 
 
 __Lyes:__ 
 
 __Mabon:__ 
 
-__Jonathan:__ 
+__Jeremiah__: 
 
 __Josh__: 
-
 ### Key Notes / Messages
 ___
 

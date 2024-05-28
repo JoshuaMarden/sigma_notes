@@ -11,9 +11,11 @@
             "id": "2e0cfda07c68b4a7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/blackjack_flow_diagram_plan.excalidraw"
+                "file": "Workshops/Tech Workshop 8 - Advanced OOP (static methods, abstract classed).md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -59,14 +61,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/PHP 2 - Interview Skills & Communication Behaviours.md",
+                "file": "Workshops/Tech Workshop 7 - Inheritance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49983bba566ce2d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-05-21 (Tue).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6066482fec45aae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-05-28 (Tue).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e08d1fe55cc0b18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshops/Tech Workshop 9 - API's & Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c62ab295cf0a3d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshops/Workshop 10 - Fetching Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d554293106da4a79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-05-28 (Tue).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -132,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/PHP 2 - Interview Skills & Communication Behaviours.md",
+                "file": "Daily Notes/2024-05-28 (Tue).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/PHP 2 - Interview Skills & Communication Behaviours.md",
+                "file": "Daily Notes/2024-05-28 (Tue).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/PHP 2 - Interview Skills & Communication Behaviours.md"
+                "file": "Daily Notes/2024-05-28 (Tue).md"
               }
             }
           }
@@ -193,46 +255,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32afb0b22075a490",
+  "active": "d554293106da4a79",
   "lastOpenFiles": [
-    "PHP/PHP  1 - Interview Skills.md",
-    "Python Lines & Snippets.md",
+    "PHP/PHP - Office Hours.md",
+    "Workshops/Workshop 10 - Fetching Data.md",
+    "Untitled 2.md",
+    "Workshops/Tech Workshop 9 - API's & Networking.md",
+    "Workshops/Tech Workshop 6 - Encapsualtion.md",
     "PHP/PHP 2 - Interview Skills & Communication Behaviours.md",
-    "How To's & Problem Solving/Add Helper Print Command to Terminal.md",
+    "Workshops/Tech Workshop 8 - Advanced OOP (static methods, abstract classed).md",
+    "PHP/PHP  1 - Interview Skills.md",
+    "Daily Notes/2024-05-28 (Tue).md",
+    "Document Templates/daily_note.md",
+    "Workshops/How To Solve Problems 5.md",
+    "Workshops/Tech Workshop 2 - Good Coding Habits.md",
     "Workshops/Tech Workshop 3 - Bug Squashing.md",
+    "Workshops/How To Solve Problems 4.md",
+    "Excalidraw/add_players_to_blackjack.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-22 09.43.58.excalidraw.md",
+    "Excalidraw/blackjack_flow_diagram_plan.excalidraw",
+    "Daily Notes/2024-05-21 (Tue).md",
+    "Daily Notes/2024-05-23 (Thu).md",
+    "TO DO's.md",
+    "Daily Notes/2024-05-24 (Fri).md",
+    "Workshops/Tech Workshop 4 - Into to OOP.md",
+    "Workshops/Tech Workshop  5 - Try & Except.md",
+    "Workshops/Tech Workshop 1 - Repo's, VENV's, & TDD.md",
+    "Workshops/Tech Workshop 7 - Inheritance.md",
+    "Code Reviews/Group Code Review II - Key Takeaways.md",
+    "How To's & Problem Solving/Add Helper Print Command to Terminal.md",
+    "Projects/Blackjack/Blackjack Add Players Plan.canvas",
     "sigma_notes.git/sigma_notes/encapsulation_pre-work.py",
-    "sigma_notes.git/sigma_notes/Workshops/Tech Workshop 6 - Encapsualtion.md",
-    "sigma_notes.git/sigma_notes/Workshops/Tech Workshop 4 - OOP.md",
-    "sigma_notes.git/sigma_notes/Workshops/Tech Workshop 3 - Bug Squashing.md",
-    "sigma_notes.git/sigma_notes/Workshops/Tech Workshop 2 - Good Coding Habits.md",
-    "sigma_notes.git/sigma_notes/Workshops/Tech Workshop 1 - Repo's, VENV's, & TDD.md",
-    "sigma_notes.git/sigma_notes/Workshops/Tech Workshop  5 - Try & Except.md",
-    "sigma_notes.git/sigma_notes/Workshops/How to Solve Problems 3.md",
-    "sigma_notes.git/sigma_notes/Workshops/How to Solve Problems 2.md",
-    "sigma_notes.git/sigma_notes/Workshops/How to Solve Problems 1.md",
-    "sigma_notes.git/sigma_notes/Workshops/How To Solve Problems 5.md",
-    "sigma_notes.git/sigma_notes/Workshops/How To Solve Problems 4.md",
     "sigma_notes.git/sigma_notes/Workshops",
-    "sigma_notes.git/sigma_notes/README.md",
-    "sigma_notes.git/sigma_notes/Python Lines & Snippets.md",
     "sigma_notes.git/sigma_notes/Projects/Blackjack/Blackjack Add Players Plan.canvas",
-    "sigma_notes.git/sigma_notes/Projects/Blackjack/Add Player To BlackJack Process.md",
     "sigma_notes.git/sigma_notes/Projects/Blackjack",
     "sigma_notes.git/sigma_notes/Projects",
-    "sigma_notes.git/sigma_notes/PHP/PHP  1 - Interview Skills.md",
     "sigma_notes.git/sigma_notes/PHP",
-    "sigma_notes.git/sigma_notes/Excalidraw/add_players_to_blackjack.excalidraw.md",
     "sigma_notes.git/sigma_notes/Excalidraw/blackjack_flow_diagram_plan.excalidraw",
     "sigma_notes.git/sigma_notes/Excalidraw",
-    "sigma_notes.git/sigma_notes/Document Templates/daily_note.md",
     "sigma_notes.git/sigma_notes/Document Templates",
-    "sigma_notes.git/sigma_notes/Daily Notes/2024-05-21 (Tue).md",
-    "sigma_notes.git/sigma_notes/Daily Notes/2024-05-20 (Mon).md",
-    "sigma_notes.git/sigma_notes/Daily Notes/2024 · 05 · 17 (Fri).md",
-    "sigma_notes.git/sigma_notes/Daily Notes/2024 · 05 · 16 (Thurs).md",
     "sigma_notes.git/sigma_notes/Daily Notes",
-    "sigma_notes.git/sigma_notes/Code Reviews",
-    "Projects/Blackjack/Blackjack Add Players Plan.canvas",
     "Untitled.canvas"
   ]
 }

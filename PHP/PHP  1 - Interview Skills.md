@@ -6,7 +6,7 @@ C C P !
 
 [My Coursework](https://docs.google.com/document/d/1LFA5ObYPVuihHzLJUGosr2pMVF4nZvhzBcOJwdVEAjI/edit)
 
-* Course work is required by 1800 every Friday. (Delivered every Wed.)
+* Course work is required by 1800 every ~~Friday~~ Monday. (Delivered every Wed.)
 * You need to send it in your career channel and respond to Rory's feedback.
 
 ---

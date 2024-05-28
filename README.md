@@ -19,10 +19,13 @@ _________________________________
 
 ---
 
-- [x] TODO: Fix gitignore
-- [ ] TODO: Start moving useful keyboard shortcuts to a single file
-- [ ] TODO: start adding hashtags and links to connect files
-- [ ] TODO: start a decent, linked foßlder for code snippet & one-liners
+### To Do's
+
+- [x] Fix gitignore
+- [ ] Start moving useful keyboard shortcuts to a single file
+- [ ] start adding hashtags and links to connect files
+- [ ]  start a decent, linked foßlder for code snippet & one-liners
+- [ ] create a basic Obsidian plugin to suit ToDo list needs, including recurring tasks
 
 
 
