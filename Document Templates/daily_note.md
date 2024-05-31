@@ -1,7 +1,7 @@
 
 ### Stand Up
 ___
-__Hamoodi:__ 
+__Hamoodi__: 
 
 __Lyes:__ 
 
@@ -10,6 +10,7 @@ __Mabon:__
 __Jeremiah__: 
 
 __Josh__: 
+
 ### Key Notes / Messages
 ___
 
@@ -18,12 +19,12 @@ ___
 
 ### Wrap Up
 ___
-__Miles:__ 
+__Hamoodi:__ 
 
 __Lyes:__ 
 
 __Mabon:__ 
 
-__Johnathan:__ 
+__Jeremiah__: 
 
 __Josh__: 

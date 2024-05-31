@@ -11,9 +11,9 @@ __Mabon's Code__
 
 __Comments by Chris__
 
-- Super() can be used when you have already used polymorophism to overwrite a parent function in your child. BUT, if you then want the original function, you can call it back with super(). So it is quite useful even when embedded deeper into the child class.
+- Super() can be used when you have already used polymorphism to overwrite a parent function in your child. BUT, if you then want the original function, you can call it back with super(). So it is quite useful even when embedded deeper into the child class.
 
-- You can print objects dierctly:
+- You can print objects directly:
 ```
 def __str__(self)
 	return f"VHS: {self.video_name}"
