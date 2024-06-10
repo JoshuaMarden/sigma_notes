@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"1984647676a44ff1","type":"link","url":"https://www.tradingview.com/chart/Jp6Tit0B/?symbol=BITSTAMP%3ABTCUSD","x":-1160,"y":-840,"width":1280,"height":1000},
+		{"id":"1096f9d7278a24d6","type":"link","url":"https://www.tradingview.com/chart/Jp6Tit0B/?symbol=COINBASE%3ASOLUSD","x":240,"y":-840,"width":1280,"height":1000},
+		{"id":"6d6f56d74178c09b","type":"link","url":"https://www.tradingview.com/chart/Jp6Tit0B/?symbol=COINBASE%3AXRPUSD","x":1680,"y":-840,"width":1280,"height":1000},
+		{"id":"1b080c2af0aea174","type":"link","url":"https://www.tradingview.com/chart/Jp6Tit0B/?symbol=BITSTAMP%3ABTCUSD","x":-1160,"y":345,"width":1280,"height":975},
+		{"id":"28ae788ab9c8a93a","type":"link","url":"https://www.tradingview.com/chart/Jp6Tit0B/?symbol=COINBASE%3ASOLUSD","x":240,"y":345,"width":1280,"height":975},
+		{"id":"01d883029753b400","type":"link","url":"https://www.tradingview.com/chart/Jp6Tit0B/?symbol=COINBASE%3AXRPUSD","x":1680,"y":345,"width":1280,"height":975}
+	],
+	"edges":[
+		{"id":"62a91378e8a2e0de","fromNode":"1984647676a44ff1","fromSide":"bottom","toNode":"1b080c2af0aea174","toSide":"top"},
+		{"id":"42dea8f04f67848c","fromNode":"1096f9d7278a24d6","fromSide":"bottom","toNode":"28ae788ab9c8a93a","toSide":"top"},
+		{"id":"78530d94e8c73957","fromNode":"6d6f56d74178c09b","fromSide":"bottom","toNode":"01d883029753b400","toSide":"top"}
+	]
+}

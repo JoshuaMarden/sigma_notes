@@ -3,7 +3,7 @@ So in one Office hours, Chris gave us another overview of using requests and the
 
 First though I think this is useful:
 
-### URL's - Uniform Resource Indicators
+### URL's - Uniform Resource Locators
 ___
 
 A URL (Uniform Resource Locator) is more than just a __path__.

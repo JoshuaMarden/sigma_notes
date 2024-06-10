@@ -8,175 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e0cfda07c68b4a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workshops/Tech Workshop 8 - Advanced OOP (static methods, abstract classed).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd7d79351f83b9c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workshops/How to Solve Problems 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "160c5f635a03ec03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workshops/Tech Workshop 7 - Inheritance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3756d62781955da4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP/PHP  1 - Interview Skills.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32afb0b22075a490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workshops/Tech Workshop 7 - Inheritance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49983bba566ce2d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Document Templates/daily_note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cf4eea224928eb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-05-30 (Thu).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b97335f83c7d3f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How To's & Problem Solving/Some Notes on Requests & Using it with PyTest (TDD).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5965122d96282491",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-05-30 (Thu).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e08d1fe55cc0b18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workshops/Tech Workshop 9 - API's & Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c62ab295cf0a3d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workshops/Tech Workshop 10 - Fetching Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d554293106da4a79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO DO's.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59afbc96549c1a6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workshops/Tech Workshop 10 - Fetching Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "40386b5e6fa02600",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-05-30 (Thu).md",
+                "file": "Daily Notes/2024 · 05 · 13 (Mon).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4bcbabc6b1be941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-06-10 (Mon).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fb4c6478b6c07cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Thoughts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Open gCal Timeline View",
+                "query": "tag:#python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,6 +87,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e373f6f05fa8f33f",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
               "state": {}
             }
           }
@@ -242,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-05-30 (Thu).md",
+                "file": "Daily Notes/2024-06-10 (Mon).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-05-30 (Thu).md",
+                "file": "Daily Notes/2024-06-10 (Mon).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,11 +158,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-05-30 (Thu).md"
+                "file": "Daily Notes/2024-06-10 (Mon).md"
               }
             }
+          },
+          {
+            "id": "ef99a91135e02da1",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6acb4917e398f32",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -300,50 +193,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "obsidian-map-view:Open map view": false
     }
   },
-  "active": "5965122d96282491",
+  "active": "b4bcbabc6b1be941",
   "lastOpenFiles": [
-    "How To's & Problem Solving/Some Notes on Requests & Using it with PyTest (TDD).md",
-    "Daily Notes/2024-05-30 (Thu).md",
-    "Fleeting Thoughts.md",
-    "How To's & Problem Solving/Add Helper Print Command to Terminal.md",
-    "TO DO's.md",
-    "Daily Notes/2024-05-31 (Fri).md",
-    "Daily Notes/2024-05-23 (Thu).md",
-    "Excalidraw/how_the_internet_works.excalidraw.md",
-    "README.md",
-    "Excalidraw/how_the_internet_works.excalidraw 1.md",
-    "Python Lines & Snippets.md",
-    "Excalidraw/Drawing 2024-05-22 09.43.58.excalidraw.md",
-    "Excalidraw/blackjack_flow_diagram_plan.excalidraw",
-    "Pasted Image 20240530091409_411.png",
-    "Daily Notes/2024-05-29 (Wed).md",
-    "Daily Notes/2024-05-24 (Fri).md",
-    "Daily Notes/2024-05-28 (Tue).md",
-    "Workshops/Techworkshop 12 - The Internet.md",
-    "Excalidraw/how_the_internet_works.excalidraw 2.md",
     "Document Templates/daily_note.md",
-    "PHP/PHP 2 - Interview Skills & Communication Behaviours.md",
-    "PHP/PHP 3 - Effective Habits & Productivity Tools.md",
-    "Daily Notes/2024-05-21 (Tue).md",
-    "Untitled 2.md",
-    "Workshops/Tech Workshop 10 - Fetching Data.md",
-    "Workshops/Tech Workshop 11 - Posting Data.md",
-    "Workshops/Tech Workshop 9 - API's & Networking.md",
-    "Workshops/Tech Workshop 8 - Advanced OOP (static methods, abstract classed).md",
+    "Daily Notes/2024-06-10 (Mon).md",
+    "smart-chats/UNTITLED CHAT 2024-06-09 18 43 07.md",
+    "Excalidraw/add_players_to_blackjack.excalidraw.md",
     "Projects/Blackjack/Blackjack Add Players Plan.canvas",
+    "Projects/Blackjack/Add Player To BlackJack Process.md",
+    "Workshops/How to Solve Problems 2.md",
+    "Workshops/How To Solve Problems 5.md",
+    "Workshops/How to Solve Problems 3.md",
+    "PHP/PHP  1 - Interview Skills.md",
+    "Code Reviews/Group Code Review III.md",
+    "Excalidraw/Drawing 2024-06-09 19.09.15.excalidraw.md",
+    "✧ TO DO's.md",
+    "Untitled.md",
+    "Daily Notes/2024 · 05 · 13 (Mon).md",
+    "Irrelevant/Stonks.canvas",
+    "Excalidraw/blackjack_flow_diagram_plan.excalidraw",
+    "Excalidraw/Drawing 2024-05-22 09.43.58.excalidraw.md",
+    "Excalidraw/how_the_internet_works.excalidraw.md",
+    "PHP/PHP 4 - Effective Habits & Productivity Tools II.md",
+    "PHP/PHP 3 - Effective Habits & Productivity Tools.md",
+    "Workshops/How to Solve Problems 1.md",
+    "Questions & Answers.md",
+    "Workshops/How To Solve Problems 4.md",
+    "Untitled.canvas",
+    "README.md",
+    "Questions For Coaches.md",
+    "Fleeting Thoughts.md",
+    "PHP/PHP 2 - Interview Skills & Communication Behaviours.md",
+    "Irrelevant",
+    "sigma_notes.git/sigma_notes/Python Lines & Snippets.md",
+    "sigma_notes.git/sigma_notes/Projects/Blackjack/Blackjack Add Players Plan.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "smart-chats",
+    "Pasted Image 20240530091409_411.png",
     "sigma_notes.git/sigma_notes/encapsulation_pre-work.py",
     "sigma_notes.git/sigma_notes/Workshops",
-    "sigma_notes.git/sigma_notes/Projects/Blackjack/Blackjack Add Players Plan.canvas",
     "sigma_notes.git/sigma_notes/Projects/Blackjack",
     "sigma_notes.git/sigma_notes/Projects",
     "sigma_notes.git/sigma_notes/PHP",
     "sigma_notes.git/sigma_notes/Excalidraw/blackjack_flow_diagram_plan.excalidraw",
-    "sigma_notes.git/sigma_notes/Excalidraw",
-    "sigma_notes.git/sigma_notes/Document Templates",
-    "sigma_notes.git/sigma_notes/Daily Notes",
-    "Untitled.canvas"
+    "sigma_notes.git/sigma_notes/Excalidraw"
   ]
 }

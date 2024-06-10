@@ -1,9 +1,14 @@
 {
 	"nodes":[
-		{"id":"28ecd38e17b77ea3","type":"file","file":"Excalidraw/add_players_to_blackjack.excalidraw.md","x":-80,"y":-260,"width":460,"height":680},
-		{"id":"c2d76c6d78ca8aa3","x":600,"y":-260,"width":420,"height":620,"type":"file","file":"Projects/Blackjack/Add Player To BlackJack Process.md"}
+		{"id":"28ecd38e17b77ea3","type":"file","file":"Excalidraw/add_players_to_blackjack.excalidraw.md","x":-80,"y":-260,"width":460,"height":680,"color":"1"},
+		{"id":"c2d76c6d78ca8aa3","type":"file","file":"Projects/Blackjack/Add Player To BlackJack Process.md","x":600,"y":-260,"width":420,"height":620},
+		{"id":"e3474212c4724244","type":"link","url":"https://www.hippodromecasino.com/hippodrome-casino/blackjack/","x":-1000,"y":-500,"width":540,"height":480},
+		{"id":"3aed6a48dff8b553","type":"file","file":"Workshops/Tech Workshop 1 - Repo's, VENV's, & TDD.md","x":-1000,"y":360,"width":470,"height":440},
+		{"id":"1c8572654873233f","x":150,"y":-840,"width":400,"height":400,"type":"file","file":"PHP/PHP 3 - Effective Habits & Productivity Tools.md"}
 	],
 	"edges":[
-		{"id":"4825c7248ea978ef","fromNode":"28ecd38e17b77ea3","fromSide":"right","toNode":"c2d76c6d78ca8aa3","toSide":"left"}
+		{"id":"4825c7248ea978ef","fromNode":"28ecd38e17b77ea3","fromSide":"right","toNode":"c2d76c6d78ca8aa3","toSide":"left"},
+		{"id":"7dd2c67e293c56de","fromNode":"e3474212c4724244","fromSide":"right","toNode":"28ecd38e17b77ea3","toSide":"left"},
+		{"id":"21b01e2593dcea03","fromNode":"3aed6a48dff8b553","fromSide":"right","toNode":"28ecd38e17b77ea3","toSide":"left"}
 	]
 }
