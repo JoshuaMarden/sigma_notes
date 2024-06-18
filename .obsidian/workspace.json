@@ -8,36 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "40386b5e6fa02600",
+            "id": "86740511c35fab1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024 · 05 · 13 (Mon).md",
+                "file": "✧ TO DO's.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b4bcbabc6b1be941",
+            "id": "a9a07871eb8a5690",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "PHP/Read-To-Go Answers/Answers Canvas.canvas",
+                "viewState": {
+                  "x": 995.9924398625436,
+                  "y": 419.52852233677066,
+                  "zoom": -1.678278461780023
+                }
+              }
+            }
+          },
+          {
+            "id": "7294c033625c297a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-06-10 (Mon).md",
+                "file": "PHP/Read-To-Go Answers/Future 𖥔 Career/What are you looking for in your career?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1fb4c6478b6c07cb",
+            "id": "cb66005cd18f6680",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Thoughts.md",
+                "file": "PHP/Read-To-Go Answers/Future 𖥔 Career/What are you looking for in your career?.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-06-10 (Mon).md",
+                "file": "PHP/Read-To-Go Answers/Answers Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-06-10 (Mon).md",
+                "file": "PHP/Read-To-Go Answers/Answers Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-06-10 (Mon).md"
+                "file": "PHP/Read-To-Go Answers/Answers Canvas.canvas"
               }
             }
           },
@@ -178,8 +193,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,55 +208,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-map-view:Open map view": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "obsidian-map-view:Open map view": false
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b4bcbabc6b1be941",
+  "active": "a9a07871eb8a5690",
   "lastOpenFiles": [
-    "Document Templates/daily_note.md",
-    "Daily Notes/2024-06-10 (Mon).md",
-    "smart-chats/UNTITLED CHAT 2024-06-09 18 43 07.md",
-    "Excalidraw/add_players_to_blackjack.excalidraw.md",
-    "Projects/Blackjack/Blackjack Add Players Plan.canvas",
-    "Projects/Blackjack/Add Player To BlackJack Process.md",
-    "Workshops/How to Solve Problems 2.md",
-    "Workshops/How To Solve Problems 5.md",
-    "Workshops/How to Solve Problems 3.md",
-    "PHP/PHP  1 - Interview Skills.md",
-    "Code Reviews/Group Code Review III.md",
-    "Excalidraw/Drawing 2024-06-09 19.09.15.excalidraw.md",
+    "Projects/Lessons Learnt I - API's & SQL.md",
+    "PHP/PHP 5 - Structured Problem Solving.md",
+    "PHP/Read-To-Go Answers/Answers Canvas.canvas",
+    "PHP/Read-To-Go Answers/Future 𖥔 Career/What are you looking for in your career?.md",
+    "How To's & Problem Solving/Add Helper Print Command to Terminal.md",
+    "How To's & Problem Solving/Some Notes on Requests & Using it with PyTest (TDD).md",
     "✧ TO DO's.md",
-    "Untitled.md",
-    "Daily Notes/2024 · 05 · 13 (Mon).md",
-    "Irrelevant/Stonks.canvas",
-    "Excalidraw/blackjack_flow_diagram_plan.excalidraw",
-    "Excalidraw/Drawing 2024-05-22 09.43.58.excalidraw.md",
-    "Excalidraw/how_the_internet_works.excalidraw.md",
+    "Daily Notes/2024-06-18 (Tue).md",
+    "PHP/Read-To-Go Answers/Worked 𖥔 Effective 𖥔 Team/An instance of a time I have worked Effectively As a Team.md",
+    "PHP/Read-To-Go Answers/Future 𖥔 Career",
+    "Daily Notes/2024-06-17 (Mon).md",
     "PHP/PHP 4 - Effective Habits & Productivity Tools II.md",
-    "PHP/PHP 3 - Effective Habits & Productivity Tools.md",
-    "Workshops/How to Solve Problems 1.md",
-    "Questions & Answers.md",
-    "Workshops/How To Solve Problems 4.md",
+    "Workshops/Tech Workshop 22 - Das Vogel.md",
+    "Workshops/Tech Workshop 19 - Joins Deep Dive.md",
+    "Workshops/Tech Workshop 18 - Intro to SQl.md",
+    "Daily Notes/2024-06-12 (Wed).md",
+    "Workshops/Tech Workshop 21 -.md",
+    "Irrelevant/Stonks.canvas",
+    "Daily Notes/2024-06-14 (Fri).md",
     "Untitled.canvas",
-    "README.md",
-    "Questions For Coaches.md",
-    "Fleeting Thoughts.md",
-    "PHP/PHP 2 - Interview Skills & Communication Behaviours.md",
+    "Workshops/Drawing 2024-06-12 10.02.42.excalidraw.md",
+    "Daily Notes/2024-06-13 (Thu).md",
+    "Workshops/Tech Workshop 20 - Databases and APIs.md",
+    "Workshops/Tech Workshop 17 - Modelling Databases.md",
+    "Workshops/Tech workshop 16 - API Testing.md",
+    "Workshops/Tech Workshop 5 - Try & Except.md",
+    "Workshops/How To Solve Problems 5.md",
+    "Workshops/Tech Workshop 2 - Good Coding Habits.md",
+    "Pictures & PDFs/drawSQL-image-export-2024-06-12.png",
+    "Pictures & PDFs/drawSQL-image-export-2024-06-12 (1).png",
+    "Excalidraw/drawSQL-image-export-2024-06-12.png",
+    "Daily Notes/2024-06-11 (Tue).md",
+    "Excalidraw/Untitled scene.excalidraw",
+    "Excalidraw/Unconfirmed 920526.crdownload",
+    "Pictures & PDFs/Certificate_SQL-Island.pdf",
+    "Pictures & PDFs",
+    "Excalidraw/blackjack_flow_diagram_plan.excalidraw",
+    "PHP/Read-To-Go Answers/Worked 𖥔 Effective 𖥔 Team",
+    "PHP/Read-To-Go Answers",
+    "Projects/Blackjack/Blackjack Add Players Plan.canvas",
     "Irrelevant",
-    "sigma_notes.git/sigma_notes/Python Lines & Snippets.md",
     "sigma_notes.git/sigma_notes/Projects/Blackjack/Blackjack Add Players Plan.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "smart-chats",
-    "Pasted Image 20240530091409_411.png",
-    "sigma_notes.git/sigma_notes/encapsulation_pre-work.py",
-    "sigma_notes.git/sigma_notes/Workshops",
-    "sigma_notes.git/sigma_notes/Projects/Blackjack",
-    "sigma_notes.git/sigma_notes/Projects",
-    "sigma_notes.git/sigma_notes/PHP",
-    "sigma_notes.git/sigma_notes/Excalidraw/blackjack_flow_diagram_plan.excalidraw",
-    "sigma_notes.git/sigma_notes/Excalidraw"
+    "Pasted Image 20240530091409_411.png"
   ]
 }

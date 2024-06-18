@@ -2,22 +2,22 @@ ___
 
 #### Recurring Deadlines
 
-- [x] Weekly Peer-Interview                |    Each week set a time
-- [ ] Write-up Peer Interview              |    Each week set a time
-- [x] 121 with Chris                               |    Monday 1600 to 1620 (now fortnightly)
-- [ ] PHP Coursework                          |    Monday 0900  [here](https://docs.google.com/document/d/11dJBXOzuohnu-e17TDkAsOu5-jkXyVEkelSfIGe8h7U/edit?pli=1)
-- [x] Rank Learning Objectives           |    Friday 1300
-- [x] Weekly Reflection Form              |    Friday 1300 [here](https://airtable.com/app9tRh5EmYaiAdWX/shrnTPl5HUGtSkdn6)
-- [x] Coding Coursework                     |    Friday 1300 (see above form)
-- [x] Mastery Quiz                                |    Friday 1300
-- [x] Submit Technical Assessment   |    Friday 1730 [here](https://airtable.com/app9tRh5EmYaiAdWX/shrVNPT7mwRvRDiIy)
-- [ ] Remind Chris 'ELI5-minutes'
-- [ ] Remind Chris 'code-buddy'
 
-✧
+- [ ] Write-up Peer Interview              |    Each week set a time (ANNA) 
+- [x] 121 with Chris                               |    Monday 1600 to 1620 (now fortnightly)
+- [x] PHP Coursework                          |    Monday 0900  [here](https://docs.google.com/document/d/1H8-uBk7b8iZrpQCBW4xbB92COojucd8maU5uyoonWkw/edit)
+- [ ] Rank Learning Objectives           |    Friday 1300
+- [ ] Weekly Reflection Form              |    Friday 1300 [here](https://airtable.com/app9tRh5EmYaiAdWX/shrnTPl5HUGtSkdn6)
+- [ ] Coding Coursework                     |    Friday 1300 (see above form)
+- [ ] Mastery Quiz                                |    Friday 1300
+- [ ] Submit Technical Assessment   |    Friday 1730 [here](https://airtable.com/app9tRh5EmYaiAdWX/shrVNPT7mwRvRDiIy)\
+
 #### Singular Deadlines
 
-- [ ] Prep Presentation                          |    Mon, 10th Jun [timetable here](https://docs.google.com/spreadsheets/d/1BA6PGT8liEZO39e8jfcXN8swcsd09vVQsBOlgYTfHVQ/edit#gid=0)
+
+- [ ] Remind Chris 'ELI5-minutes'
+- [ ] Remind Chris 'code-buddy'
+- [x] Prep Presentation                          |    Mon, 10th Jun [timetable here](https://docs.google.com/spreadsheets/d/1BA6PGT8liEZO39e8jfcXN8swcsd09vVQsBOlgYTfHVQ/edit#gid=0)
 - [x] Read Rory's Guide on Interviews |   Friday
 
 
@@ -26,11 +26,23 @@ ___
 - [ ] Get a nice obsidian file to showcase for talk 
       This one might do.
 - [ ] hashtag notes (get AI to do it?)
+- [ ] Find a nice video on cryptography
+- [ ] Find a nice video on how the internet works
 - [x] see TODO's in README
 
 # Done
 ___
 
+
+- [x] Prep Presentation                          |    Mon, 10th Jun [timetable here](https://docs.google.com/spreadsheets/d/1BA6PGT8liEZO39e8jfcXN8swcsd09vVQsBOlgYTfHVQ/edit#gid=0)
+- [x] Read Rory's Guide on Interviews |   Friday
+- [x] Weekly Peer-Interview                |    Each week set a time (Miles)
+- [x] 121 with Chris                               |    Monday 1600 to 1620 (now fortnightly)
+- [x] Rank Learning Objectives           |    Friday 1300
+- [x] Weekly Reflection Form              |    Friday 1300 [here](https://airtable.com/app9tRh5EmYaiAdWX/shrnTPl5HUGtSkdn6)
+- [x] Coding Coursework                     |    Friday 1300 (see above form)
+- [x] Mastery Quiz                                |    Friday 1300
+- [x] Submit Technical Assessment   |    Friday 1730 [here](https://airtable.com/app9tRh5EmYaiAdWX/shrVNPT7mwRvRDiIy)
 - [x] Weekly Peer-Interview                |    Each week set a time (Linfan)
 - [x] Weekly Reflection Form              |    Friday 1300 [here](https://airtable.com/app9tRh5EmYaiAdWX/shrnTPl5HUGtSkdn6)
 - [x] Mastery Quiz                                |    Friday 1300
