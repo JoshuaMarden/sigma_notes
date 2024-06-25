@@ -20,46 +20,91 @@
             }
           },
           {
-            "id": "a9a07871eb8a5690",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "PHP/Read-To-Go Answers/Answers Canvas.canvas",
-                "viewState": {
-                  "x": 995.9924398625436,
-                  "y": 419.52852233677066,
-                  "zoom": -1.678278461780023
-                }
-              }
-            }
-          },
-          {
-            "id": "7294c033625c297a",
+            "id": "1f936406f60f9841",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/Read-To-Go Answers/Future 𖥔 Career/What are you looking for in your career?.md",
+                "file": "Workshops/Tech Workshop 23 - Pipelines.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cb66005cd18f6680",
+            "id": "fe08106eef2a8eb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/Read-To-Go Answers/Future 𖥔 Career/What are you looking for in your career?.md",
+                "file": "Workshops/Tech Workshop 25 - Data Modelling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7875544a773fdf16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshops/Tech Workshop 26 - Defining Databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0591988864ed8289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/PHP 5 - Structured Problem Solving.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9a07871eb8a5690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/Read-To-Go Answers/Worked 𖥔 Effective 𖥔 Team/An instance of a time I have worked Effectively As a Team.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "710c67e69e4c9323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-06-19 (Wed).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "117434e63221e950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/Read-To-Go Answers/Learn New Improve/A time I learnt something new....md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/Read-To-Go Answers/Answers Canvas.canvas",
+                "file": "Workshops/Tech Workshop 26 - Defining Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/Read-To-Go Answers/Answers Canvas.canvas",
+                "file": "Workshops/Tech Workshop 26 - Defining Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/Read-To-Go Answers/Answers Canvas.canvas"
+                "file": "Workshops/Tech Workshop 26 - Defining Databases.md"
               }
             }
           },
@@ -213,40 +258,45 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a9a07871eb8a5690",
+  "active": "4bc33093f1cb42a3",
   "lastOpenFiles": [
-    "Projects/Lessons Learnt I - API's & SQL.md",
-    "PHP/PHP 5 - Structured Problem Solving.md",
-    "PHP/Read-To-Go Answers/Answers Canvas.canvas",
-    "PHP/Read-To-Go Answers/Future 𖥔 Career/What are you looking for in your career?.md",
-    "How To's & Problem Solving/Add Helper Print Command to Terminal.md",
-    "How To's & Problem Solving/Some Notes on Requests & Using it with PyTest (TDD).md",
-    "✧ TO DO's.md",
-    "Daily Notes/2024-06-18 (Tue).md",
-    "PHP/Read-To-Go Answers/Worked 𖥔 Effective 𖥔 Team/An instance of a time I have worked Effectively As a Team.md",
-    "PHP/Read-To-Go Answers/Future 𖥔 Career",
-    "Daily Notes/2024-06-17 (Mon).md",
-    "PHP/PHP 4 - Effective Habits & Productivity Tools II.md",
-    "Workshops/Tech Workshop 22 - Das Vogel.md",
-    "Workshops/Tech Workshop 19 - Joins Deep Dive.md",
-    "Workshops/Tech Workshop 18 - Intro to SQl.md",
-    "Daily Notes/2024-06-12 (Wed).md",
-    "Workshops/Tech Workshop 21 -.md",
-    "Irrelevant/Stonks.canvas",
-    "Daily Notes/2024-06-14 (Fri).md",
-    "Untitled.canvas",
-    "Workshops/Drawing 2024-06-12 10.02.42.excalidraw.md",
-    "Daily Notes/2024-06-13 (Thu).md",
-    "Workshops/Tech Workshop 20 - Databases and APIs.md",
+    "Images/Pasted image 20240625102457.png",
+    "Images/Screenshot 2024-06-25 at 10.22.22.png",
+    "Images",
+    "Workshops/Tech Workshop 25 - Data Modelling.md",
+    "Workshops/Tech Workshop 26 - Defining Databases.md",
+    "Workshops/Tech Workshop 24 - Data Engineering.md",
+    "Workshops/Tech Workshop 23 - Pipelines.md",
+    "Daily Notes/2024-06-25 (Tue).md",
+    "Daily Notes/2024-06-24 (Mon).md",
+    "Untitled 1.canvas",
     "Workshops/Tech Workshop 17 - Modelling Databases.md",
+    "PHP/Read-To-Go Answers/Learn New Improve/A time I learnt something new....md",
+    "Daily Notes/2024-06-19 (Wed).md",
+    "PHP/Read-To-Go Answers/Worked 𖥔 Effective 𖥔 Team/An instance of a time I have worked Effectively As a Team.md",
+    "PHP/PHP 5 - Structured Problem Solving.md",
+    "✧ TO DO's.md",
+    "Workshops/Tech Workshop 18 - Intro to SQl.md",
+    "Workshops/Tech Workshop 19 - Joins Deep Dive.md",
+    "Workshops/Tech Workshop 20 - Databases and APIs.md",
+    "Workshops/Tech Workshop 21 - SQL Views & Tables.md",
+    "Workshops/Tech Workshop 22 - Das Vogel.md",
+    "Workshops/Tech Workshop 15 - RESTful API.md",
     "Workshops/Tech workshop 16 - API Testing.md",
-    "Workshops/Tech Workshop 5 - Try & Except.md",
-    "Workshops/How To Solve Problems 5.md",
-    "Workshops/Tech Workshop 2 - Good Coding Habits.md",
+    "Workshops/Tech Workshop 9 - API's & Networking.md",
+    "Projects/Untitled.md",
+    "Daily Notes/2024-06-21 (Fri).md",
+    "Untitled.canvas",
+    "Code Reviews/Group Code Review III.md",
+    "PHP/PHP 2 - Interview Skills & Communication Behaviours.md",
+    "PHP/PHP 3 - Effective Habits & Productivity Tools.md",
+    "PHP/Read-To-Go Answers/Answers Canvas.canvas",
+    "PHP/Read-To-Go Answers/Learn New Improve",
+    "PHP/Read-To-Go Answers/Future 𖥔 Career",
+    "Irrelevant/Stonks.canvas",
     "Pictures & PDFs/drawSQL-image-export-2024-06-12.png",
     "Pictures & PDFs/drawSQL-image-export-2024-06-12 (1).png",
     "Excalidraw/drawSQL-image-export-2024-06-12.png",
-    "Daily Notes/2024-06-11 (Tue).md",
     "Excalidraw/Untitled scene.excalidraw",
     "Excalidraw/Unconfirmed 920526.crdownload",
     "Pictures & PDFs/Certificate_SQL-Island.pdf",
@@ -255,11 +305,8 @@
     "PHP/Read-To-Go Answers/Worked 𖥔 Effective 𖥔 Team",
     "PHP/Read-To-Go Answers",
     "Projects/Blackjack/Blackjack Add Players Plan.canvas",
-    "Irrelevant",
     "sigma_notes.git/sigma_notes/Projects/Blackjack/Blackjack Add Players Plan.canvas",
-    "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "smart-chats",
     "Pasted Image 20240530091409_411.png"
   ]
 }

@@ -3,13 +3,13 @@ ___
 #### Recurring Deadlines
 
 
-- [ ] Write-up Peer Interview              |    Each week set a time (ANNA) 
+- [x] Write-up Peer Interview              |    Each week set a time (ANNA) 
 - [x] 121 with Chris                               |    Monday 1600 to 1620 (now fortnightly)
 - [x] PHP Coursework                          |    Monday 0900  [here](https://docs.google.com/document/d/1H8-uBk7b8iZrpQCBW4xbB92COojucd8maU5uyoonWkw/edit)
-- [ ] Rank Learning Objectives           |    Friday 1300
-- [ ] Weekly Reflection Form              |    Friday 1300 [here](https://airtable.com/app9tRh5EmYaiAdWX/shrnTPl5HUGtSkdn6)
-- [ ] Coding Coursework                     |    Friday 1300 (see above form)
-- [ ] Mastery Quiz                                |    Friday 1300
+- [x] Rank Learning Objectives           |    Friday 1300
+- [x] Weekly Reflection Form              |    Friday 1300 [here](https://airtable.com/app9tRh5EmYaiAdWX/shrnTPl5HUGtSkdn6)
+- [x] Coding Coursework                     |    Friday 1300 (see above form)
+- [x] Mastery Quiz                                |    Friday 1300
 - [ ] Submit Technical Assessment   |    Friday 1730 [here](https://airtable.com/app9tRh5EmYaiAdWX/shrVNPT7mwRvRDiIy)\
 
 #### Singular Deadlines

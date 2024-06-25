@@ -38,7 +38,7 @@ ___
 
 #### APPROACH
 
-- I
+- I ^9426c1
 	 - We get on well. Are patient.
 	- Begin delegating tasks. Sometimes it was explicit, sometimes it was implicit.
 	- Communicate well, even through language barriers. What people need, what customers to watch for.
@@ -61,27 +61,27 @@ ___
 	- It felt good to tame some of the chaos.
 
 - III ^bfb0b2
-	- Staff hours were cut
-	- People left
-	- Could not be replicated or maintained.
+	- Staff hours were cut.
+	- People left.
+	- Could not be maintained!
 
 
 ### REFLECTION
 
 - I  ^e2fe61
-	 - Obviously communication was key
-	 - But not communication as people typically think
+	 - Communication was key but...
+	 - GOOD teams are special, protect them
 
 - II ^88f724
-	- Patience, and non-verbal communication.
-	- Observation
+	- We used: Non-verbal communication.
+	- Observation, lots of patience
 
 - III ^fd4ad9
 	- the Zenith was when we could anticipate one another's needs
-	- That was always impressive.
+	- Synergy
 
 - IV ^b571b3
-	-  I want to feel that way again
+	-  We were __competent__, __formidable__
 	- To bring order to chaos with competent people
 
 

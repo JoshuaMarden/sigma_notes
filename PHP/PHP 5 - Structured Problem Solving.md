@@ -14,7 +14,7 @@ ___
 
 ##### Tools
 - Using SCQA
-- Using root cause analysis
+- Using Root Cause Analysis
 
 
 > If I were given one hour to save the world, I would spend 59 minutes defining the problem and 1 minute defining the solution.
