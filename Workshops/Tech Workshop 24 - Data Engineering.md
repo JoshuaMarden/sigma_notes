@@ -1,5 +1,7 @@
 ___
 
+[Excalidraw](https://app.excalidraw.com/l/6gPaBlSh8PG/fRH1vYiML5) Doc
+
 Prework:
 
 #### What is a data Engineer?

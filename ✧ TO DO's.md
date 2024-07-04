@@ -3,13 +3,13 @@ ___
 #### Recurring Deadlines
 
 
-- [x] Write-up Peer Interview              |    Each week set a time (ANNA) 
-- [x] 121 with Chris                               |    Monday 1600 to 1620 (now fortnightly)
-- [x] PHP Coursework                          |    Monday 0900  [here](https://docs.google.com/document/d/1H8-uBk7b8iZrpQCBW4xbB92COojucd8maU5uyoonWkw/edit)
-- [x] Rank Learning Objectives           |    Friday 1300
-- [x] Weekly Reflection Form              |    Friday 1300 [here](https://airtable.com/app9tRh5EmYaiAdWX/shrnTPl5HUGtSkdn6)
-- [x] Coding Coursework                     |    Friday 1300 (see above form)
-- [x] Mastery Quiz                                |    Friday 1300
+- [ ] Write-up Peer Interview              |    Each week set a time (SUSPENDED) 
+- [ ] 121 with Chris                               |    Monday 1600 to 1620 (now fortnightly)
+- [ ] PHP Coursework                          |    Monday 0900  [here](https://docs.google.com/document/d/1H8-uBk7b8iZrpQCBW4xbB92COojucd8maU5uyoonWkw/edit)
+- [ ] Rank Learning Objectives           |    Friday 1300
+- [ ] Weekly Reflection Form              |    Friday 1300 [here](https://airtable.com/app9tRh5EmYaiAdWX/shrnTPl5HUGtSkdn6)
+- [ ] Coding Coursework                     |    Friday 1300 (see above form)
+- [ ] Mastery Quiz                                |    Friday 1300
 - [ ] Submit Technical Assessment   |    Friday 1730 [here](https://airtable.com/app9tRh5EmYaiAdWX/shrVNPT7mwRvRDiIy)\
 
 #### Singular Deadlines
@@ -33,7 +33,20 @@ ___
 # Done
 ___
 
-
+- [x] Write-up Peer Interview              |    Each week set a time (SUSPENDED) 
+- [x] 121 with Chris                               |    Monday 1600 to 1620 (now fortnightly)
+- [x] PHP Coursework                          |    Monday 0900  [here](https://docs.google.com/document/d/1H8-uBk7b8iZrpQCBW4xbB92COojucd8maU5uyoonWkw/edit)
+- [x] Rank Learning Objectives           |    Friday 1300
+- [x] Weekly Reflection Form              |    Friday 1300 [here](https://airtable.com/app9tRh5EmYaiAdWX/shrnTPl5HUGtSkdn6)
+- [x] Coding Coursework                     |    Friday 1300 (see above form)
+- [x] Submit Technical Assessment   |    Friday 1730 [here](https://airtable.com/app9tRh5EmYaiAdWX/shrVNPT7mwRvRDiIy)\
+- [x] Write-up Peer Interview              |    Each week set a time (ANNA) 
+- [x] 121 with Chris                               |    Monday 1600 to 1620 (now fortnightly)
+- [x] PHP Coursework                          |    Monday 0900  [here](https://docs.google.com/document/d/1H8-uBk7b8iZrpQCBW4xbB92COojucd8maU5uyoonWkw/edit)
+- [x] Rank Learning Objectives           |    Friday 1300
+- [x] Weekly Reflection Form              |    Friday 1300 [here](https://airtable.com/app9tRh5EmYaiAdWX/shrnTPl5HUGtSkdn6)
+- [x] Coding Coursework                     |    Friday 1300 (see above form)
+- [x] Mastery Quiz                                |    Friday 1300
 - [x] Prep Presentation                          |    Mon, 10th Jun [timetable here](https://docs.google.com/spreadsheets/d/1BA6PGT8liEZO39e8jfcXN8swcsd09vVQsBOlgYTfHVQ/edit#gid=0)
 - [x] Read Rory's Guide on Interviews |   Friday
 - [x] Weekly Peer-Interview                |    Each week set a time (Miles)

@@ -41,7 +41,7 @@ __Search using id's__! They can be indexed so you need not use a sequential sear
 You can set a column to be an index. It hashes the columns so they can be searched via tree not sequential scan.
 
 Indexes make __querys__ faster _but_ __adding and removing__ is slower. It is ideal to index data that does not often need updating and is regularly searched.
-
+su
 
 ![[Screenshot 2024-06-25 at 10.22.22.png]]
 
